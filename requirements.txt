@@ -1,0 +1,11 @@
+streamlit
+gspread
+oauth2client
+openai
+pyMuPDF
+pdfplumber
+pytesseract
+beautifulsoup4
+newspaper3k
+sentence-transformers
+scikit-learn
